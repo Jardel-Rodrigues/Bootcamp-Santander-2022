@@ -10,7 +10,6 @@ const funcionario2: {codigo: number, nome: string} = {
     nome: 'joao'
 }
 
-// Respostas 3 e 4
 interface Funcionario { 
     codigo: number,
     nome: string
